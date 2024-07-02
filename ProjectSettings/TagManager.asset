@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Flag
+  - diamond
+  - key
+  - coin
+  - Enemy
+  - Player1
+  - Player2
+  - spring
+  - Ground
+  - mojo
+  - Door
+  - EnemyTop
+  - Ladder
+  - mushroom
+  - lava
+  - water
+  - spikes
+  - bounds
+  - Bottom
+  - Top
+  - fireBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Top
+  - Bottom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 322488911
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
