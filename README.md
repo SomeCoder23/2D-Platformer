@@ -20,7 +20,7 @@ This project is a simple yet engaging 10-level platformer developed using Unity 
 
 - Here is a preview of the 8th level:
 
-[![Watch the video!]()](https://drive.google.com/file/d/1ZnQhvAsCaq7E3T2dRpvxoyNCq7rfi8HA/view?usp=sharing)
+[![Watch the video!](https://github.com/SomeCoder23/2D-Platformer/blob/main/Screenshots/Screenshot%202024-07-03%20102842.png)](https://drive.google.com/file/d/1ZnQhvAsCaq7E3T2dRpvxoyNCq7rfi8HA/view?usp=sharing)
 
 - Screenshots:
   - **MainMenu** ![Main Menu](https://github.com/SomeCoder23/2D-Platformer/blob/main/Screenshots/Screenshot%202024-07-02%20221609.png)
